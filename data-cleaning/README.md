@@ -6,16 +6,15 @@ APIs for preparing datasets by identifying, removing, correcting, or standardizi
 
 This category includes APIs for tasks such as:
 
-* Handling missing values
-* Removing duplicate records
-* Detecting and handling invalid values
-* Standardizing data formats
-* Cleaning column values
-* Converting data types
-* Detecting inconsistent data
-* Handling outliers
-* Normalizing values
-* Preparing data for analysis
+* `remove_missing_values`
+* `remove_duplicate_rows`
+* `replace_missing_values`
+* `detect_invalid_values`
+* `standardize_column_values`
+* `convert_data_types`
+* `remove_outliers`
+* `trim_text_values`
+* `validate_data_types`
 
 ## API Requirements
 
@@ -31,18 +30,21 @@ Data Cleaning APIs should:
 
 ## API Naming
 
-Use clear, action-oriented names that describe the cleaning operation.
+Use clear, action-oriented Python function names that describe the cleaning operation.
+
+Function names should use `snake_case`.
 
 Examples:
 
-* Remove Missing Values
-* Remove Duplicate Rows
-* Replace Missing Values
-* Detect Invalid Values
-* Standardize Column Values
-* Convert Data Types
-* Remove Outliers
-* Trim Text Values
-* Validate Data Types
+* `remove_missing_values`
+* `remove_duplicate_rows`
+* `replace_missing_values`
+* `detect_invalid_values`
+* `standardize_column_values`
+* `convert_data_types`
+* `remove_outliers`
+* `trim_text_values`
+* `validate_data_types`
 
 Each API should have its own directory and README documenting its metadata, parameters, return type, and usage.
+
