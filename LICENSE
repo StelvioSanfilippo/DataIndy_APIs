@@ -1,0 +1,115 @@
+# DataIndy API License
+
+Version 1.0 — October 2026
+
+Copyright (c) 2026 DataIndy
+
+## 1. Scope
+
+This License applies **only to the source code contained in this repository**, which consists of DataIndy APIs and related API source code.
+
+The **DataIndy platform is proprietary and closed-source software**. The DataIndy platform is not included in this repository and is not licensed, transferred, or otherwise made available under this License.
+
+This License does not grant any rights to the DataIndy platform or to any software, source code, services, data, documentation, trademarks, or other intellectual property that is not contained in this repository.
+
+## 2. Definitions
+
+**“Licensed Code”** means the source code contained in this repository and made available under this License.
+
+**“DataIndy Platform”** means the proprietary, closed-source DataIndy software platform and its associated software, services, functionality, and technology that are not contained in this repository.
+
+**“Competitive Product”** means a software product, platform, API, service, or hosted offering whose primary purpose or substantial functionality competes with the DataIndy Platform.
+
+**“You”** means an individual or legal entity exercising rights under this License.
+
+## 3. Copyright License
+
+Subject to the terms and conditions of this License, the copyright holder grants You a non-exclusive, worldwide, royalty-free license to:
+
+* use the Licensed Code;
+* reproduce the Licensed Code;
+* modify the Licensed Code;
+* create derivative works based on the Licensed Code; and
+* distribute the Licensed Code and modified versions of the Licensed Code.
+
+You may incorporate the Licensed Code into your own software, applications, services, or internal systems, including for commercial purposes, provided that such use complies with this License.
+
+## 4. Competitive Use Restriction
+
+You may not use the Licensed Code, or a substantially derived collection of the Licensed Code, to create, operate, distribute, or provide a Competitive Product.
+
+This restriction is intended to prevent the Licensed Code from being used as the basis for a product or service that competes with the DataIndy Platform.
+
+This restriction does not prohibit ordinary use of individual APIs or portions of the Licensed Code as components of software or services whose primary purpose is not to compete with the DataIndy Platform.
+
+## 5. Distribution Requirements
+
+If You distribute the Licensed Code or a modified version of the Licensed Code, You must:
+
+1. retain this License;
+2. retain applicable copyright notices;
+3. clearly identify significant modifications to the Licensed Code; and
+4. provide recipients with a copy of this License.
+
+## 6. Attribution
+
+You may not remove copyright or other legal notices contained in the Licensed Code.
+
+Attribution to DataIndy is required where reasonably appropriate when distributing copies or substantial portions of the Licensed Code.
+
+## 7. No License to the DataIndy Platform
+
+Nothing in this License grants You any right, title, or license to the DataIndy Platform.
+
+The DataIndy Platform remains proprietary and closed-source software.
+
+In particular, this License does not grant rights to:
+
+* DataIndy Platform source code;
+* DataIndy Platform software not contained in this repository;
+* DataIndy services;
+* proprietary DataIndy technology;
+* DataIndy datasets or data;
+* DataIndy documentation not contained in this repository;
+* DataIndy trademarks, logos, or branding; or
+* any other intellectual property not contained in the Licensed Code.
+
+## 8. No Trademark License
+
+This License does not grant any rights to use the names, trademarks, service marks, logos, or branding of DataIndy.
+
+Any use of DataIndy trademarks remains subject to applicable trademark rights and permissions.
+
+## 9. Contributions
+
+Unless otherwise agreed in writing, contributions intentionally submitted for inclusion in the Licensed Code are provided under the same license terms as the Licensed Code.
+
+You represent that You have the right to submit the contribution under these terms.
+
+## 10. Disclaimer of Warranty
+
+THE LICENSED CODE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE LICENSED CODE WILL MEET YOUR REQUIREMENTS, OPERATE WITHOUT INTERRUPTION, OR BE FREE FROM ERRORS OR DEFECTS.
+
+## 11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE OF, OR INABILITY TO USE, THE LICENSED CODE.
+
+## 12. Termination
+
+Your rights under this License terminate automatically if You materially violate its terms.
+
+Upon termination, You must cease exercising the rights granted by this License, except for provisions that by their nature continue after termination.
+
+## 13. Severability
+
+If any provision of this License is determined to be unenforceable, that provision shall be modified to the minimum extent necessary to make it enforceable, and the remaining provisions shall remain in effect.
+
+## 14. Entire License
+
+This License constitutes the complete terms governing the use of the Licensed Code contained in this repository.
+
+---
+
+**DataIndy API License — Version 1.0**
